@@ -20,5 +20,5 @@ Ce projet consiste à faire clignoter une LED branchée sur la broche numérique
 - **LED Cathode (-)** ➔ Résistance 220 Ω ➔ Broche GND
 - <img width="278" height="346" alt="Capture d&#39;écran 2026-09-09 143112" src="https://github.com/user-attachments/assets/4eed40ef-e64d-41d1-8513-94b45ba7d3c5" />
  f6bbd1a (ajout du code de blink.ino et documentation du read me)
-<img width="116" height="211" alt="Capture d&#39;écran 2026-03-20 133015" src="https://github.com/user-attachments/assets/ebd625eb-9a93-427b-816d-6797fea20e21" />
+
 
